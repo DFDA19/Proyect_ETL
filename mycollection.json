@@ -1,0 +1,369 @@
+[{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa578"
+  },
+  "breed": "Abyssinian",
+  "short_descr": "Abyssinians are highly intelligent and intensely inquisitive. They love to investigate and will leave no nook or cranny unexplored. They’re sometimes referred to as “Aby-grabbys” because they tend to take things that grab their interest. The playful Aby loves to jump and climb. Keep a variety of toys on hand to keep her occupied, including puzzle toys that challenge her intelligence.",
+  "href": "https://www.purina.com/breeds/abyssinian-cat",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Abyssinian_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa579"
+  },
+  "breed": "American Bobtail",
+  "short_descr": "The American Bobtail is an athletic breed that looks like a bobtailed wildcat and has many dog-like tendencies.",
+  "href": "https://www.purina.com/cats/cat-breeds/american-bobtail",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/AmericanBobtail_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa57a"
+  },
+  "breed": "American Curl",
+  "short_descr": "With unique ears that curl back, and an inquisitive expression reminiscent of happy surprise, the American Curl brings a smile to everyone who meets her. ",
+  "href": "https://www.purina.com/cats/cat-breeds/american-curl",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/AmericanCurlSHA_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa57b"
+  },
+  "breed": "American Shorthair",
+  "short_descr": "Formerly used to keep rodents and vermin away from food stores, the American Shorthair still enjoys exercising her hunting skills on unsuspecting insects. As a smart, moderately active feline, she enjoys learning tricks and challenging her intelligence with puzzles and interactive toys.",
+  "href": "https://www.purina.com/cats/cat-breeds/american-shorthair",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/AmericanShorthair_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa57c"
+  },
+  "breed": "American Wirehair",
+  "short_descr": "Intelligent and highly adaptable, the American Wirehair is an American original, with a completely unique wired coat.",
+  "href": "https://www.purina.com/cats/cat-breeds/american-wirehair",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/AmericanWirehair_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa57d"
+  },
+  "breed": "Balinese-Javanese",
+  "short_descr": "The Balinese, also known as Javanese depending on coat color and pattern, is regal and aristocratic in appearance, but a curious kitten at heart. ",
+  "href": "https://www.purina.com/cats/cat-breeds/balinese-javanese",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Javanese_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa57e"
+  },
+  "breed": "Bengal",
+  "short_descr": "Bengal Cats are curious and confident with the tameness of a domestic tabby and the beauty of an Asian Leopard Cat. Learn more about Bengals and their playful personality, plus information on their health and how to feed them.",
+  "href": "https://www.purina.com/breeds/bengal-cat",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Bengal_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa57f"
+  },
+  "breed": "Birman",
+  "short_descr": "The Birman is a cat of distinction as well as legend. With their exotic ancestry, luxurious pointed coats, “white gloved” paws and mesmerizing blue eyes, this is a breed with undeniable charisma. ",
+  "href": "https://www.purina.com/breeds/birman-cat-breed",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Birman_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa580"
+  },
+  "breed": "Bombay",
+  "short_descr": "The Bombay is an easy-going, yet energetic cat. She does well in quiet apartments where she’s the center of attention as well as in lively homes with children and other pets. She’ll talk to you in a distinct voice, and you’re likely to find her in the warmest spot in your home, whether that’s in the sunlight from a window or curled up under the covers in bed with you. ",
+  "href": "https://www.purina.com/cats/cat-breeds/bombay",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Bombay_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa581"
+  },
+  "breed": "British Shorthair",
+  "short_descr": "The British Shorthair is an easygoing feline. She enjoys affection but isn’t needy and dislikes being carried. She’ll follow you from room to room, though, out of curiosity. British Shorthairs aren’t lap cats, but they do enjoy snuggling next to their people on the couch.",
+  "href": "https://www.purina.com/cats/cat-breeds/british-shorthair",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/BritishShorthair_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa582"
+  },
+  "breed": "Burmese",
+  "short_descr": "The Burmese thrives on companionship with her humans and other cats. Like her Siamese ancestors, she enjoys conversation, but has a much softer, sweeter voice. ",
+  "href": "https://www.purina.com/cats/cat-breeds/burmese",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Burmese_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa583"
+  },
+  "breed": "Chartreux",
+  "short_descr": "According to legend, Carthusian monks bred Chartreux at the Grande Chartreuse Monastery in southeast France. The breed was named after the monks’ world-famous yellow and green Chartreuse liquors, and the cats were selectively bred to have quiet voices so as not to disturb the monks’ mediations.",
+  "href": "https://www.purina.com/cats/cat-breeds/chartreux",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Chartruese_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa584"
+  },
+  "breed": "Cornish Rex",
+  "short_descr": "On July 21, 1950, in Cornwall, England, Nina Ennismore discovered that her domestic British Shorthair, a tortoiseshell-and-white cat named “Serena,” had given birth to a cream-colored male with tight rows of tiny curls that looked like a miniature lamb. Ennismore named the kitten “Kallibunker” and the breed Rex as it resembled the wavy fur of the Astrex rabbits she raised and exhibited.",
+  "href": "https://www.purina.com/cats/cat-breeds/cornish-rex",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/CornishRex_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa585"
+  },
+  "breed": "Devon Rex",
+  "short_descr": "Because of her curly coat and her tail, which wags when she is happy, the Devon Rex is sometimes called a poodle who purrs. ",
+  "href": "https://www.purina.com/cats/cat-breeds/devon-rex",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/DevonRex_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa586"
+  },
+  "breed": "Egyptian Mau",
+  "short_descr": "The Egyptian Mau is fiercely devoted to her humans and vocally shows signs of happiness and affection by meowing in a pleasant voice. She’ll also slowly swish her tail and knead with her front paws. She loves to display her hunting skills by chasing and retrieving a toy. As a moderate- to highly active breed, you may find her on top of your refrigerator or bookshelves.",
+  "href": "https://www.purina.com/cats/cat-breeds/egyptian-mau",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/EgyptianMau_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa587"
+  },
+  "breed": "European Burmese",
+  "short_descr": "According to legend, Burmese were temple cats and the pets of royalty long before the Siamese claimed the honor. Each Burmese cat was assigned a novice monk whose duties included indulging every whim of his feline charge.",
+  "href": "https://www.purina.com/cats/cat-breeds/european-burmese",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/EuropeanBurmese_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa588"
+  },
+  "breed": "Exotic Shorthair",
+  "short_descr": "Known as the lazy man’s Persian, the Exotic Shorthair has the body type and easygoing nature of the Persian but without the coat length and need for daily grooming. ",
+  "href": "https://www.purina.com/cats/cat-breeds/exotic-shorthair",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Exotic_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa589"
+  },
+  "breed": "Havana Brown",
+  "short_descr": "In August 1968, Elizabeth Freret, a well-known Abyssinian breeder, imported three Japanese Bobtails to the U.S. These cats became the foundation stock in this country, though the Japanese Bobtail, the national cat breed of Japan, had existed for centuries in the Orient.",
+  "href": "https://www.purina.com/cats/cat-breeds/havana-brown",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/HavanaBrown_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa58a"
+  },
+  "breed": "Himalayan",
+  "short_descr": "The Himalayan Cat is a sweet and mild-tempered feline. She’s affectionate but selective. Although she loves lying in your lap and being pet, she may be reserved around guests. Serene, quiet environments with few day-to-day changes are best for the Himmie.",
+  "href": "https://www.purina.com/cats/cat-breeds/himalayan",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Himilayan_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa58b"
+  },
+  "breed": "Japanese Bobtail",
+  "short_descr": "The Havana Brown was named for the similarity of her lovely burnished, mahogany-toned, glossy coat to the brown color of Havana cigars.The Havana Brown is exclusive to North America. The Chestnut Brown, the European version of the Havana Brown, is the equivalent of the chestnut Oriental Shorthair.",
+  "href": "https://www.purina.com/cats/cat-breeds/japanese-bobtail",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/JapaneseBobtailSHOddEyed_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa58c"
+  },
+  "breed": "Korat",
+  "short_descr": "Discovered in the Korat province of Thailand, the Korat has been cherished in her native Thailand for centuries as a symbol of good fortune. The expressive, oversized eyes of the Korat have an intense gaze that is said to take one’s breath away. The eyes are blue at birth but change to amber with green around the pupil during adolescence and then luminous green in two to four years.",
+  "href": "https://www.purina.com/cats/cat-breeds/korat",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Korat_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa58d"
+  },
+  "breed": "LaPerm",
+  "short_descr": "The LaPerm coat ranges from wavy to ringlets to long corkscrew curls. Those with longhair have curly plumed tails and a full, curly ruff, and those with shorthair have more texture, no ruff and a bottle-brush type tail. The tightest curls are found on the belly, throat and base of the ears.",
+  "href": "https://www.purina.com/cats/cat-breeds/laperm",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/LaPerm_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa58e"
+  },
+  "breed": "Maine Coon",
+  "short_descr": "Maine Coon cats are gentle natured and friendly, making them good companions. They are often tenderly playful and curious, making them kitten-like throughout their lives.",
+  "href": "https://www.purina.com/cats/cat-breeds/maine-coon",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/MaineCoon_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa58f"
+  },
+  "breed": "Manx",
+  "short_descr": "When she’s not hunting bugs or rodents or standing guard, the Manx is an affectionate, even-tempered and playful cat. She loves to follow her favorite person from room to room and curling up on their lap for a snooze. Your Manx will even carry on a conversation with you in her quiet trill.",
+  "href": "https://www.purina.com/cats/cat-breeds/manx",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/ManxSH_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa590"
+  },
+  "breed": "Munchkin",
+  "short_descr": "They may have short legs, but Munchkin Cats don’t let it hold them back. Although they can’t make big leaps like other breeds, they can make small jumps, climb and even sit back on their haunches to get a better look at something.",
+  "href": "https://www.purina.com/cats/cat-breeds/munchkin",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Munchkin.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa591"
+  },
+  "breed": "Norwegian Forest",
+  "short_descr": "The Norwegian Forest Cat is a gentle giant. They’re large and athletic, so you may find them sitting atop the highest point in your home, and they have no qualms about jumping down. Norwegian Forest Cats are fond of their family but are reserved with visitors.",
+  "href": "https://www.purina.com/cats/cat-breeds/norwegian-forest-cat",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/NorwegianForestCat_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa592"
+  },
+  "breed": "Ocicat",
+  "short_descr": "In 1964, Virginia Daly of Berkleg, Mich., experimentally crossed a Siamese with an Abyssinian hoping to produce an Aby-point Siamese. A male kitten in the litter was ivory with golden spots and copper eyes. Daly’s daughter named the breed Ocicat because the kitten, “Tonga,” resembled the spotted wildcat. Tonga was neutered and sold as a pet. A noted geneticist at Georgia University, Dr. Clyde Keeler, wanted to see a domestic cat that mimicked wild species that were becoming extinct. At his request, the breeding of Tonga’s parents was repeated, producing another spotted male, Dalai Dotson, who became the father of the Ocicat breed.",
+  "href": "https://www.purina.com/cats/cat-breeds/ocicat",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Ocitcat_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa593"
+  },
+  "breed": "Oriental",
+  "short_descr": "The Oriental is a sleek, elegant cat with large, flaring ears and almond-shaped eyes, often associated with the Siamese breeds. ",
+  "href": "https://www.purina.com/cats/cat-breeds/oriental",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/OrientalSH_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa594"
+  },
+  "breed": "Persian",
+  "short_descr": "The docile Persian is a quiet feline who enjoys a calm and relaxing environment. Although she enjoys sitting in her humans’ laps and being pet, she’s just as happy to sit and observe everyone’s comings and goings from afar. Persians are independent and selective in who they show affection to.",
+  "href": "https://www.purina.com/cats/cat-breeds/persian",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/PersianSolid_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa595"
+  },
+  "breed": "Peterbald",
+  "short_descr": "The Peterbald coat ranges from smooth bald to a short brushed coat. Kittens usually are born with hair, but lose the coat as they mature, which can take up to two years. Though hairless, Peterbalds should be wiped down regularly to remove the sebaceous oils that collect on their skin and could become sticky to the touch.",
+  "href": "https://www.purina.com/cats/cat-breeds/peterbald",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Peterbald_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa596"
+  },
+  "breed": "Pixiebob",
+  "short_descr": "The Pixiebob is the only breed that accepts polydactyls – up to seven extra toes is allowed -- and comes in two coat varieties, longhair and shorthair.",
+  "href": "https://www.purina.com/cats/cat-breeds/pixiebob",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/PixieBob_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa597"
+  },
+  "breed": "Ragamuffin",
+  "short_descr": "The RagaMuffin is similar, but not identical, to the conformation and temperament of the Ragdoll due to years of separation between the breeds. The RagaMuffin has a wider variety of colors and the body type is slightly different, though both breeds are descendants from the original Ragdoll bloodlines. The RagaMuffin is sometimes called not a new breed but an old one with a new name.",
+  "href": "https://www.purina.com/cats/cat-breeds/ragamuffin",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/RagaMuffin_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa598"
+  },
+  "breed": "Ragdoll",
+  "short_descr": "Ragdolls are loving, smart and playful. They show affection to their people by greeting them, following them around, sitting in their laps and snuggling in bed. Ragdoll cats can also learn tricks and certain behaviors with positive reinforcement.",
+  "href": "https://www.purina.com/cats/cat-breeds/ragdoll",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Ragdoll_240x240%20%281%29.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa599"
+  },
+  "breed": "Russian Blue",
+  "short_descr": "The Russian Blue is gentle, quiet and even shy around strangers, but she’s affectionate and loyal toward her people. She’ll follow you around and even ride on your shoulder.",
+  "href": "https://www.purina.com/cats/cat-breeds/russian-blue",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/RussianBlue_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa59a"
+  },
+  "breed": "Savannah",
+  "short_descr": "The Savannah Cat’s personality is playful, adventurous and loyal. Unlike most cats, she loves to play in water and can even be trained to walk on a leash and play fetch. Don’t be fooled by her dog-like personality, though.",
+  "href": "https://www.purina.com/cats/cat-breeds/savannah",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Savannah_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa59b"
+  },
+  "breed": "Scottish Fold",
+  "short_descr": "The smart and friendly Scottish Fold loves playing with challenging, puzzling toys to test her intelligence. She also loves human interaction with her people and loves attention. Scottish Folds prefer the company of their humans or other cats (or cat-friendly dogs), rather than being left alone for hours at a time.",
+  "href": "https://www.purina.com/cats/cat-breeds/scottish-fold",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/SchottishFoldLH_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa59c"
+  },
+  "breed": "Selkirk Rex",
+  "short_descr": "Selkirk Rex litters can have both curly coated and straight-haired kittens. Those with curly coats are born with an extremely curly coat, but at about 16 weeks of age, the coat begins to straighten. At 8 to 10 months old, a kitten will begin to regain her curls, which increase in curliness until the cat reaches 2 years of age.",
+  "href": "https://www.purina.com/cats/cat-breeds/selkirk-rex",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/SelkirkRex_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa59d"
+  },
+  "breed": "Siamese",
+  "short_descr": "Siamese Cats are incredibly social, intelligent and vocal—they’ll talk to anyone who wants to listen, and even those who don’t. They also play well with other cats, dogs and children. In fact, they thrive on companionship, so it’s a good idea to get them a playmate to interact with throughout the day. Although they’re active and curious, they also love curling up on their human’s lap or snuggling up next to them in bed.",
+  "href": "https://www.purina.com/cats/cat-breeds/siamese",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Siamese_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa59e"
+  },
+  "breed": "Siberian",
+  "short_descr": "This friendly and affectionate feline will follow you around as you go about your day, and purr in your lap as you comb her coat. Siberian Cats love their humans but aren’t shy around strangers.",
+  "href": "https://www.purina.com/cats/cat-breeds/siberian",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Siberian_body_6.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa59f"
+  },
+  "breed": "Singapura",
+  "short_descr": "The Singapura originated from small brown cats with ticked coats known as “drain cats” because they lived in Singapore’s storm drains. These cats fought for their share of fish on the Malaysian island’s shipping docks. Singapura is the Malaysian word for the Singapore, which means “lion city” and explains why the breed is known as “little lions of love.”",
+  "href": "https://www.purina.com/cats/cat-breeds/singapura",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Singapura_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa5a0"
+  },
+  "breed": "Somali",
+  "short_descr": "Contrary to popular belief, the Somali did not originate in Somalia. Rather, the breed is essentially a longhaired Abyssinian that resulted from a recessive gene. Originally, Abyssinian breeders were not happy when these longhaired kittens showed up in litters. It is believed the Somali resulted when longhaired cats were used by British Abyssinian breeders following World War II to repopulate the breed or possibly were due to a mutation.",
+  "href": "https://www.purina.com/cats/cat-breeds/somali",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Somali_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa5a1"
+  },
+  "breed": "Sphynx",
+  "short_descr": "The hairless Sphynx is muscular with broad ears, a wide-eyed, friendly expression, and an affectionate personality to match.",
+  "href": "https://www.purina.com/cats/cat-breeds/sphynx",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Sphynx_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa5a2"
+  },
+  "breed": "Tonkinese",
+  "short_descr": "The Tonkinese, like her ancestral breeds, the Burmese and Siamese, becomes darker as she ages. A pointed Tonkinese is born white, with the point colors beginning to develop when kittens are a few days old. They do not develop their full, rich colors for several years",
+  "href": "https://www.purina.com/cats/cat-breeds/tonkinese",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Tonkinese_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa5a3"
+  },
+  "breed": "Toyger",
+  "short_descr": "Bred to resemble wild tigers in a domestic package, the Toyger has a unique coat pattern for a domestic cat. Instead of the vertical stripes of the mackerel tabby or the rounded rosettes of some spotted tabbies, the Toyger has broken, or branched, bold vertical stripes in a random pattern.",
+  "href": "https://www.purina.com/breeds/toyger-cat-breed",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/Toyger_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa5a4"
+  },
+  "breed": "Turkish Angora",
+  "short_descr": "The Turkish Angora may have been the first longhair cat breed in Europe, and maintains the status of a national treasure in her native country, Turkey. ",
+  "href": "https://www.purina.com/cats/cat-breeds/turkish-angora",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/TurkishAngora_body_7.jpg"
+},{
+  "_id": {
+    "$oid": "645acaa939ef378c9d4aa5a5"
+  },
+  "breed": "Turkish Van",
+  "short_descr": "The Turkish Van is a rare, ancient breed that developed in central and Southeast Asia, in areas known today as Iran, Iraq, southwest Soviet Union and eastern Turkey.",
+  "href": "https://www.purina.com/cats/cat-breeds/turkish-van",
+  "img_url": "https://www.purina.com/sites/g/files/auxxlc196/files/TurkishVan_body_7.jpg"
+}]
